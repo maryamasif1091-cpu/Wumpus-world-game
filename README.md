@@ -1,4 +1,4 @@
-## Wumpus World Game (React + Vite)
+## Wumpus World Game
 
 A web-based implementation of the classic **Wumpus World AI problem**, built using **React.js and Vite**.  
 The project simulates a grid-based environment where an intelligent agent navigates hazards, finds gold, and makes decisions based on percepts.
