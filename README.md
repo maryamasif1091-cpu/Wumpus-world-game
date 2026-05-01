@@ -27,11 +27,17 @@ The project simulates a grid-based environment where an intelligent agent naviga
 ## Project Structure
 /src
 │── components/        # UI Components (Grid, Cell, Controls, Dashboard)
+
 │── logic/             # Game logic (agent, env, inference, kb, percepts)
+
 │── App.jsx
+
 │── main.jsx
+
 │── App.css
+
 │── index.css
+
 │── index.html
 
 ---
